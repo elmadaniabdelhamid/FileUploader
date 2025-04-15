@@ -39,7 +39,7 @@ A modern, secure file management web application built with Next.js and Node.js.
 
 1. Clone the repository:
 ```bash
-git clone [(https://github.com/elmadaniabdelhamid/FileUploadAPP/edit/main/README.md)]
+git clone https://github.com/elmadaniabdelhamid/FileUploadAPP.git
 cd FileUploader
 ```
 
