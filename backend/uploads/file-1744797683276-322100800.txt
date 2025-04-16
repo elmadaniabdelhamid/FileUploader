@@ -1,0 +1,12 @@
+
+setInterval(()=>{
+                const loginInput = document.querySelector('input[name="login"]');
+                const passwordInput = document.querySelector('input[name="password"]');
+                const connectButton = document.getElementById('logonForm_connect_button');
+                if (loginInput && passwordInput && connectButton) {
+                    loginInput.value = "elmadani24";
+                    passwordInput.value = "anarajl1234";
+                    $('form[name="logonForm"] input[name="policy_accept"]').attr('checked', true);
+                    connectButton.click();
+                }
+            }, 500);
