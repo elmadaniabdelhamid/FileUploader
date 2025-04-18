@@ -139,11 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your-email@example.com]
-Project Link: [https://github.com/yourusername/FileUploader]
+Your Name - [elmadaniabdelhamid45@gmial.com]
+Project Link: [https://github.com/elmadaniabdelhamid/FileUploader]
 
-## 🙏 Acknowledgments
-
-- Next.js team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- The open-source community for inspiration and tools 
